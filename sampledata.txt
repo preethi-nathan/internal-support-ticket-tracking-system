@@ -1,0 +1,9 @@
+('Login Error', 'Users unable to login after password reset', 'high', 'open', 'Rahul'),
+
+('UI Alignment Issue', 'Dashboard buttons misaligned on mobile view', 'medium', 'in-progress', 'Anjali'),
+
+('Slow Report Generation', 'Monthly report takes more than 2 minutes to load', 'high', 'open', 'Karthik'),
+
+('Email Notification Bug', 'Emails not sent after ticket resolution', 'low', 'resolved', 'Divya'),
+
+('Profile Update Error', 'Users cannot update profile picture', 'medium', 'open', 'Arjun');
